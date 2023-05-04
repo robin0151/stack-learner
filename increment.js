@@ -19,7 +19,7 @@ console.log(a + ' ' + ++a + ' ' + a++);
 
 console.log(a);
 
-let d = 5;
+let decrement = 5;
 console.log(d + ' ' + --d + ' ' + d--);
 
 console.log(d);
